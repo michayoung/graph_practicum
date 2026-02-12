@@ -1,2 +1,2 @@
 # graph_practicum
-Graph Practicum
+Graph Practicum movie dataset
