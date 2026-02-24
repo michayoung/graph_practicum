@@ -53,3 +53,5 @@ movieID,title,tagline,summary,poster_image,duration_min,rating
 3680,The Untouchables,What are you prepared to do?,placeholder text,http://image.tmdb.org/t/p/w185/nv7FOs90Y3Cq5tBhEITEV8Zebyw.jpg,119,R
 3753,Capote,In Cold Blood,placeholder text,http://image.tmdb.org/t/p/w185/bf3nxeLglBvXH5jAnMLmhc56muB.jpg,114,R
 3915,Lost in Translation,Everyone wants to be found.,placeholder text,http://image.tmdb.org/t/p/w185/5T8VvuFTdaawKLJk34i69Utaw7o.jpg,102,R
+3916,Apollo 13,"Houston, we have a problem",NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.,,140,PG
+3917,Mystic River,"We bury our sins, we wash them clean","The tragic murder of a 19-year-old girl reunites three childhood friends still living in Boston--the victim's gangster father, a detective, and the disturbed man they both suspect of killing her",,138,R
